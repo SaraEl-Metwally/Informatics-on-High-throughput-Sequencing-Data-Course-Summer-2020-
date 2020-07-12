@@ -48,8 +48,10 @@
   <br>
   <img src="VM_ScreenShots/Screenshot.png" class="centerImage" width="600" hight="600"> 
   <br>
-  
-  
+  8. To shutdown the linux machine, choose system/shutdown (do not exit by clicking on x button on the window).
+  <br>
+  <img src="VM_ScreenShots/20200712_212402.jpg" class="centerImage" width="600" hight="600"> 
+  <br>
   
   
   
