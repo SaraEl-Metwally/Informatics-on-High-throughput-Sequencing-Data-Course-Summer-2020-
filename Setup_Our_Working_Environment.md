@@ -22,6 +22,8 @@
   <img src="VM_ScreenShots/15.jpg" class="centerImage">
   6. Click import. 
   <img src="VM_ScreenShots/16.png" class="centerImage">
+  After a sucessful importing of a virtual machine, the following window will appeared:
+  <img src="VM_ScreenShots/17.png" class="centerImage">
   
   
   
