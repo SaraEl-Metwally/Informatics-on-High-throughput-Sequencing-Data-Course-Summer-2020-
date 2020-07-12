@@ -55,7 +55,7 @@
   9. To share the files hosted by your OS and the VM, put all of your files on a folder and design it as a shared folder between two operating systems.
   <br>
   10. Click on Setting. 
-  <img src="VM_ScreenShots/10.jpg" class="centerImage" width="600" hight="600"> 
+  <img src="VM_ScreenShots/18.jpg" class="centerImage" width="600" hight="600"> 
   <br>
   11. Select Shared Folders. 
   <img src="VM_ScreenShots/19.png" class="centerImage" width="600" hight="600"> 
