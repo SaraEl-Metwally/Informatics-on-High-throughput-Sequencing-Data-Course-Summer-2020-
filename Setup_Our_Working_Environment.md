@@ -76,7 +76,9 @@
   <img src="VM_ScreenShots/22.jpg" class="centerImage" width="600" hight="600"> 
   <br>
   14. To access the shared folder on the Virtual Machine, open the linux terminal on the Desktop and go to the /media folder by write  <b> <i> cd /media  </i> </b> and hit Enter. 
+  <br>
   15. List the folders under the /media by writing <b> <i> ls </i> </b> and you will find your shared folder started with <b> sf_YOUR_SHARED_FOLDER_NAME </b>.
+   <br>
   16. Write <b> <i> cd sf_YOUR_SHARED_FOLDER_NAME </i> </b> and hit Enter, Now you can access any files on this shared folder.
   <br>
   <img src="VM_ScreenShots/Screenshot-1.png" class="centerImage" width="600" hight="600"> 
