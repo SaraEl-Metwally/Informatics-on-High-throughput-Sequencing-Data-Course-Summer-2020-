@@ -13,9 +13,11 @@
   <img src="VM_ScreenShots/3.png" class="centerImage">
   2. Go to your installed Oracle VM VirtualBox and open it. 
   <img src="VM_ScreenShots/1.png" class="centerImage">
-  3. Go to File/Import Appliance or Click on Tools and click on Import
+  3. Go to File/Import Appliance or Click on Tools and click on Import.
   <img src="VM_ScreenShots/2.png" class="centerImage"> 
   <img src="VM_ScreenShots/11.png" class="centerImage">
+  4. Choose the location of the file <b> centos6_B.ova </b>.
+  <img src="VM_ScreenShots/14.png" class="centerImage">
   
   
   
