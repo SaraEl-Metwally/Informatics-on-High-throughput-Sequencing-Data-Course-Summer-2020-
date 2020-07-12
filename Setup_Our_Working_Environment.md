@@ -7,3 +7,11 @@
 
 ### Notes
 <b> centos6_B.ova </b> is a linux-based (i.e. <a href="https://en.wikipedia.org/wiki/CentOS"> <b> Centos 6.6 operating system</b><a>) vitual machine with some installed bioinformatics tools created through Johns Hopkins Genomic Data Science Specialization Courses <a href="https://www.coursera.org/learn/genomic-tools/supplement/OyZzQ/vmbox-download-instructions"> <b> ( Course Name: Command Line Tools for Genomic Data Science)  </b> </a> @ Coursera and all credits go to them. 
+  
+  ## Setup our Working Environment 
+  <ol>
+  <li> Make sure that you have enough space on your computer, and choose a partition that has at least 3 GB free space. </li>
+  
+  
+  
+  </ol>
