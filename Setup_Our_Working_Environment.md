@@ -80,7 +80,7 @@
   15. List the folders under the /media by writing <b> <i> ls </i> </b> and you will find your shared folder started with <b> sf_YOUR_SHARED_FOLDER_NAME </b>.
    <br>
   16. Write <b> <i> cd sf_YOUR_SHARED_FOLDER_NAME </i> </b> and hit Enter, Now you can access any files on this shared folder.
-  <br/>
+  <br>
   <img src="VM_ScreenShots/Screenshot-1.png" class="centerImage"> 
   
   
