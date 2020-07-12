@@ -52,27 +52,33 @@
   <br>
   <img src="VM_ScreenShots/20200712_212402.jpg" class="centerImage" width="600" hight="600"> 
   <br>
-  9. To share the files hosted by your OS and the VM, put all of your files on a folder and design it as a shared folder between two operating systems.
-  <br>
-  10. Click on Setting.
+  9. To share files among your operating system and the Virtual Machine, put the files on a shared folder and Click on Setting.
   <br>
   <img src="VM_ScreenShots/18..jpg" class="centerImage" width="600" hight="600"> 
   <br>
-  11. Select Shared Folders. 
+  10. Select Shared Folders. 
   <br>
   <img src="VM_ScreenShots/19.png" class="centerImage" width="600" hight="600"> 
   <br>
-  12. Add the folder that you designed as a shared folder (i.e. step no. 9)
+  11. Add the folder that you designed as a shared folder.
   <br>
   <img src="VM_ScreenShots/20.jpg" class="centerImage" width="600" hight="600"> 
   <br>
-  13. Select Other and choose your shared folder.
+  12. Select Other and choose your shared folder.
   <br>
   <img src="VM_ScreenShots/21.png" class="centerImage" width="600" hight="600"> 
   <br>
-  14. Check on Auto-mount option. 
+  13. Check on Auto-mount option. 
   <br>
   <img src="VM_ScreenShots/23.jpg" class="centerImage" width="600" hight="600"> 
+  <br>
+  The following window will appear after a sucessful adding of a shared folder. 
+  <img src="VM_ScreenShots/22.jpg" class="centerImage" width="600" hight="600"> 
+  <br>
+  14. To access the shared folder on the Virtual Machine, open the linux terminal on the Desktop and go to the /media folder by write ` cd /media ` and hit Enter. 
+  15. List the folders under the /media by writing ` ls ` and you will find your shared folder started with <b> sf_YOUR_SHARED_FOLDER_NAME </b>.
+  16. Write ` cd sf_YOUR_SHARED_FOLDER_NAME ` and hit Enter, Now you can access any files on this shared folder.
+  
   
   
   
