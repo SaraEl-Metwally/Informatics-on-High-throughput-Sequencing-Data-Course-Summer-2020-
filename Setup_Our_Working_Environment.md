@@ -11,7 +11,7 @@
   ## Setup our Working Environment 
   <ol>
   <li> Make sure that you have enough space on your computer, and choose a partition that has at least 3 GB free space. </li>
-  <li> Go to your installed Oracle VM VirtualBox.  </li>
+  <li> Go to your installed Oracle VM VirtualBox. <img src="VM_ScreenShots/1.png" class="centerImage"> </li>
   
   
   
