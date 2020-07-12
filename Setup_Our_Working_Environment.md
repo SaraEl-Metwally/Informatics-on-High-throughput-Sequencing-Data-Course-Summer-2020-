@@ -48,9 +48,20 @@
   <br>
   <img src="VM_ScreenShots/Screenshot.png" class="centerImage" width="600" hight="600"> 
   <br>
-  8. To shutdown the linux machine, choose system/shutdown (do not exit by clicking on x button on the window).
+  8. To shutdown the linux machine, choose system/shutdown (do not exit by clicking on x (close) button on the main window).
   <br>
   <img src="VM_ScreenShots/20200712_212402.jpg" class="centerImage" width="600" hight="600"> 
+  <br>
+  9. To share the files hosted by your OS and the VM, put all of your files on a folder and design it as a shared folder between two operating systems.
+  <br>
+  10. Click on Setting. 
+  <img src="VM_ScreenShots/10.jpg" class="centerImage" width="600" hight="600"> 
+  <br>
+  11. Select Shared Folders. 
+  <img src="VM_ScreenShots/19.png" class="centerImage" width="600" hight="600"> 
+  <br>
+  12. Add the folder that you designed as a shared folder on step no. 9
+  <img src="VM_ScreenShots/20.jpg" class="centerImage" width="600" hight="600"> 
   <br>
   
   
