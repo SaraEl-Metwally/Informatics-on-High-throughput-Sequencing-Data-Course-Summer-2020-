@@ -11,8 +11,10 @@
   ## Setup our Working Environment 
   <ol>
   <li> Make sure that you have enough space on your computer, and choose a partition that has at least 3 GB free space. </li>
-  <li> Go to your installed Oracle VM VirtualBox. <img src="https://github.com/SaraEl-Metwally/Informatics-on-High-throughput-Sequencing-Data-Course-Summer-2020-/blob/master/VM_ScreenShots/1.tif" class="centerImage" width="750" height="450"/> </li>
+  <li> Go to your installed Oracle VM VirtualBox.  </li>
+  
   
   
   
   </ol>
+  
