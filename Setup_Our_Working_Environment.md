@@ -18,6 +18,11 @@
   <img src="VM_ScreenShots/11.png" class="centerImage">
   4. Choose the location of the file <b> centos6_B.ova </b>.
   <img src="VM_ScreenShots/14.png" class="centerImage">
+  5. You can change the Machine base folder or Restore Defaults.
+  <img src="VM_ScreenShots/15.jpg" class="centerImage">
+  6. Click import. 
+  <img src="VM_ScreenShots/16.png" class="centerImage">
+  
   
   
   
