@@ -10,8 +10,9 @@
   
   ## Setup our Working Environment 
   <ol>
-  <li> Make sure that you have enough space on your computer, and choose a partition that has at least 3 GB free space. </li>
+  <li> Make sure that you have enough space on your computer, and choose a partition that has at least 3 GB free space to save <b> centos6_B.ova </b> <img src="VM_ScreenShots/3.png" class="centerImage"></li>
   <li> Go to your installed Oracle VM VirtualBox. <img src="VM_ScreenShots/1.png" class="centerImage"> </li>
+  
   
   
   
