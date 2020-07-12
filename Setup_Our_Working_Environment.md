@@ -22,9 +22,12 @@
   <img src="VM_ScreenShots/15.jpg" class="centerImage">
   6. Click import. 
   <img src="VM_ScreenShots/16.png" class="centerImage">
-  After a sucessful importing of a virtual machine, the following window will appeared:
+  After a sucessful importing of a virtual machine, the following window will appear:
   <img src="VM_ScreenShots/17.png" class="centerImage">
-  
+  7. Click on start button. 
+  <img src="VM_ScreenShots/12.png" class="centerImage">
+  The following window will appear after starting the linux Centos 6.6 operating system.
+  <img src="VM_ScreenShots/Screenshot.png" class="centerImage">
   
   
   
