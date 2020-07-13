@@ -28,6 +28,12 @@
 10. If you have any trouble with joining the meeting through the Webex Meetings Desktop app, you can join the meeting through the web browser.
 <br>
 <img src="OnlineScreens/66.png" class="centerImage" width="500" hight="500"> 
+11. The mobile application version of the Webex Meetings have the same functionality with different looks.
+<br>
+<img src="OnlineScreens/22.png" class="centerImage" width="500" hight="500"> 
+<br>
+<img src="OnlineScreens/23.png" class="centerImage" width="500" hight="500"> 
+
 
 
  
