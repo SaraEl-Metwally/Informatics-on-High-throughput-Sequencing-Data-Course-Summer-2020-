@@ -30,9 +30,9 @@
 <img src="OnlineScreens/66.png" class="centerImage" width="500" hight="500"> 
 11. The mobile application version of the Webex Meetings have the same functionality with different looks.
 <br>
-<img src="OnlineScreens/22.png" class="centerImage" width="500" hight="500"> 
+<img src="OnlineScreens/22.jpeg" class="centerImage" width="300" hight="300">  
 <br>
-<img src="OnlineScreens/23.png" class="centerImage" width="500" hight="500"> 
+<img src="OnlineScreens/23.jpeg" class="centerImage"width="300" hight="300">  
 
 
 
