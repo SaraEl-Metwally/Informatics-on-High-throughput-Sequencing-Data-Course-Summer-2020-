@@ -41,7 +41,7 @@ Undergraduate and graduate-level students in biology, medicine, science, agricul
                        <li> Bioinformatics Career in Egypt. </li>
                        <li> How to Survive in Bioinformatics Field </li>
                        <li> Introduction to Sequencing technologies (Three Generations of Sequencing Machines) </li>
-                       <li> Setup our working environment ( Linux Virtual Machine using VirtualBox ) </li>
+                       <li> Setup our working environment (Linux Virtual Machine using VirtualBox) </li>
                  </ul>
               </td>
             <td> 
