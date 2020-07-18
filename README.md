@@ -44,9 +44,12 @@ Undergraduate and graduate-level students in biology, medicine, science, agricul
                        <li> Setup our working environment ( Linux Virtual Machine using VirtualBox ) </li>
                  </ul>
               </td>
-            <td> <a href="Day1.pdf"> <b> Day 1 session </b></a>
-                 <a href="https://www.youtube.com/watch?v=7TPOgk5WsZ0"> <b> Day 1 session Video part1 </b></a>
-                 <a href="https://www.youtube.com/watch?v=s5em8kJaYbA"> <b> Day 1 session Video part2 </b></a></td>
+            <td> 
+              <ul>
+                <li> <a href="Day1.pdf"> <b> Day 1 session </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=7TPOgk5WsZ0"> <b> Day 1 session Video part1 </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=s5em8kJaYbA"> <b> Day 1 session Video part2 </b></a></td> </li>
+               </ul>
         </tr>
 
    </table>
