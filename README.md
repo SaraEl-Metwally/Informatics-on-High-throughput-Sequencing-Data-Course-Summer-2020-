@@ -57,7 +57,7 @@ Undergraduate and graduate-level students in biology, medicine, science, agricul
                        <li> Why Linux for Bioinformatics </li>
                        <li> What is Shell </li>
                        <li> Getting Started with Command Line Interface, i.e. Terminal </li>
-                       <li> Working with Linux Directory Structure </li>
+                       <li> Playing with Linux Directory Structure </li>
                  </ul>
               </td>
             <td> 
