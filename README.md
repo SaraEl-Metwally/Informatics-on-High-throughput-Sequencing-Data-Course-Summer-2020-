@@ -69,11 +69,10 @@ Undergraduate and graduate-level students in biology, medicine, science, agricul
         </tr>
           <tr>
             <td> 3 </td>
-            <td> <ul>  <li> Ownership of Linux files </li>
+            <td> 
+                 <ul>  <li> Ownership of Linux files </li>
                        <li> Understanding Linux Permissions  </li>
-                       <li> Playing with Files using Unix/Linux commands</li>
-                       
-                       
+                       <li> Playing with Files using Unix/Linux commands </li>      
                  </ul>
               </td>
             <td> 
