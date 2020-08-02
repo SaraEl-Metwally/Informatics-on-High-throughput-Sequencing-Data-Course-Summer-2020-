@@ -51,6 +51,38 @@ Undergraduate and graduate-level students in biology, medicine, science, agricul
                 <li> <a href="https://www.youtube.com/watch?v=s5em8kJaYbA"> <b> Day 1 session Video part2 </b></a></td> </li>
                </ul>
         </tr>
+          <tr>
+            <td> 2 </td>
+            <td> <ul>  <li> Unix-based Systems </li>
+                       <li> Why Linux for Bioinformatics </li>
+                       <li> What is Shell </li>
+                       <li> Getting Started with Command Line Interface, i.e. Terminal </li>
+                       <li> Working with Linux Directory Structure </li>
+                 </ul>
+              </td>
+            <td> 
+              <ul>
+                <li> <a href="Day2.pdf"> <b> Day 2 session </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=M1R2qsREo2w"> <b> Day 2 session Video part1 </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=cYyAwB992Rg"> <b> Day 2 session Video part2 </b></a></td> </li>
+               </ul>
+        </tr>
+          <tr>
+            <td> 3 </td>
+            <td> <ul>  <li> Ownership of Linux files </li>
+                       <li> Understanding Linux Permissions  </li>
+                       <li> Playing with Files using Unix/Linux commands</li>
+                       
+                       
+                 </ul>
+              </td>
+            <td> 
+              <ul>
+                <li> <a href="Day3.pdf"> <b> Day 3 session </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=ManpwTWky28"> <b> Day 3 session Video part1 </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=wd3IPimxGek"> <b> Day 3 session Video part2 </b></a></td> </li>
+               </ul>
+        </tr>
 
    </table>
    
