@@ -82,6 +82,38 @@ Undergraduate and graduate-level students in biology, medicine, science, agricul
                 <li> <a href="https://www.youtube.com/watch?v=wd3IPimxGek"> <b> Day 3 session Video part2 </b></a></td> </li>
                </ul>
         </tr>
+        <tr>
+            <td> 4 </td>
+            <td> 
+                 <ul>  <li> Linux Commands for System Managment (i.e. Process, Disk and Memory, etc.) </li>
+                       <li> Linux Commands for Archiving and Compression  </li>
+                       <li> FASTA/FASTQ Files Format </li>
+                       <li> Understand Quality Scores and Phred+33 Format </li>
+                 </ul>
+              </td>
+            <td> 
+              <ul>
+                <li> <a href="Day4.pdf"> <b> Day 4 session </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=WCp5DqdN4_U"> <b> Day 4 session Video part1 </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=3RtP0JGIwbI"> <b> Day 4 session Video part2 </b></a></td> </li>
+               </ul>
+        </tr>
+            <tr>
+            <td> 5 </td>
+            <td> 
+                 <ul>  <li> Searching FASTA/FASTQ files using grep command </li>
+                       <li> Introduction to GTF files </li>
+                       <li> Regex with grep command (i.e. Counting reads in FASTA/FASTQ files) </li>
+                       <li> Piping the output of Linux commands </li>
+                 </ul>
+              </td>
+            <td> 
+              <ul>
+                <li> <a href="Day5.pdf"> <b> Day 5 session </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=g6SqsW2L_MM"> <b> Day 5 session Video part1 </b></a> </li>
+                <li> <a href=""> <b> Day 5 session Video part2 </b></a></td> </li>
+               </ul>
+        </tr>
 
    </table>
    
