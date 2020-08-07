@@ -101,8 +101,9 @@ Undergraduate and graduate-level students in biology, medicine, science, agricul
             <tr>
             <td> 5 </td>
             <td> 
-                 <ul>  <li> Searching FASTA/FASTQ files using grep command </li>
+                 <ul>  
                        <li> Introduction to GTF files </li>
+                       <li> Searching FASTA/FASTQ/GTF files using grep command </li>
                        <li> Regex with grep command (i.e. Counting reads in FASTA/FASTQ files) </li>
                        <li> Piping the output of Linux commands </li>
                  </ul>
