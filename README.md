@@ -112,7 +112,7 @@ Undergraduate and graduate-level students in biology, medicine, science, agricul
               <ul>
                 <li> <a href="Day5.pdf"> <b> Day 5 session </b></a> </li>
                 <li> <a href="https://www.youtube.com/watch?v=g6SqsW2L_MM"> <b> Day 5 session Video part1 </b></a> </li>
-                <li> <a href=""> <b> Day 5 session Video part2 </b></a></td> </li>
+                <li> <a href="https://www.youtube.com/watch?v=bOpmzcXxa9U&lc=Ugy0D78wxukit4eFVjF4AaABAg"> <b> Day 5 session Video part2 </b></a></td> </li>
                </ul>
         </tr>
 
