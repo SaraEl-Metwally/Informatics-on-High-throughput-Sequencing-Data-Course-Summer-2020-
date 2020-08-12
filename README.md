@@ -116,6 +116,55 @@ Undergraduate and graduate-level students in biology, medicine, science, agricul
                </ul>
         </tr>
 
+ <tr>
+            <td> 6 </td>
+            <td> 
+                 <ul>  
+                       <li> Piping/Redirecting output </li>
+                       <li> cut, sort, uniq, comm, and diff </li>
+                       <li> Linux Commands for networking and communicating with a remote machine </li>
+                 </ul>
+              </td>
+            <td> 
+              <ul>
+                <li> <a href="Day6.pdf"> <b> Day 6 session </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=F_2436Xm9yk"> <b> Day 6 session Video part1 </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=SfrAvgWY5y4"> <b> Day 6 session Video part2 </b></a></td> </li>
+               </ul>
+        </tr>
+ <tr>
+            <td> 7 </td>
+            <td> 
+                 <ul>  
+                       <li> Introduction to Shell Scripting </li>
+                       <li> Variables in Bash </li>
+                       <li> User Inputs in Bash </li>
+                       <li> Arithmetic in Bash </li>
+                 </ul>
+              </td>
+            <td> 
+              <ul>
+                <li> <a href="Day7.pdf"> <b> Day 7 session </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=P1mi2Yo5M8s"> <b> Day 7 session Video </b></a> </li>
+               </ul>
+        </tr>
+ <tr>
+            <td> 8 </td>
+            <td> 
+                 <ul>  
+                       <li> Numeric and String Comparisons </li>
+                       <li> If stataments, Nested If statements, If Else, If Elif Else, Boolean Operations </li>
+                       <li> Case Statements </li>
+                 </ul>
+              </td>
+            <td> 
+              <ul>
+                <li> <a href="Day8.pdf"> <b> Day 8 session </b></a> </li>
+                <li> <a href=""> <b> Day 8 session Video part1 </b></a> </li>
+                <li> <a href=""> <b> Day 8 session Video part2 </b></a></td> </li>
+               </ul>
+        </tr>
+
    </table>
    
    ## References 
