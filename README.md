@@ -160,8 +160,8 @@ Undergraduate and graduate-level students in biology, medicine, science, agricul
             <td> 
               <ul>
                 <li> <a href="Day8.pdf"> <b> Day 8 session </b></a> </li>
-                <li> <a href=""> <b> Day 8 session Video part1 </b></a> </li>
-                <li> <a href=""> <b> Day 8 session Video part2 </b></a></td> </li>
+                <li> <a href="https://www.youtube.com/watch?v=PgZdaejlnnc"> <b> Day 8 session Video part1 </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=wKvC9-EoTws"> <b> Day 8 session Video part2 </b></a></td> </li> 
                </ul>
         </tr>
 
