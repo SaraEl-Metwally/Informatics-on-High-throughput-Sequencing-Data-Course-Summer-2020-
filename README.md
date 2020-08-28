@@ -164,6 +164,50 @@ Undergraduate and graduate-level students in biology, medicine, science, agricul
                 <li> <a href="https://www.youtube.com/watch?v=wKvC9-EoTws"> <b> Day 8 session Video part2 </b></a></td> </li> 
                </ul>
         </tr>
+        <tr>
+            <td> 9 </td>
+            <td> 
+                 <ul>  
+                       <li> While, Until, For loops </li>
+                       <li> Ranges and Select Statments </li>
+                       <li> Functions in bash </li>
+                 </ul>
+              </td>
+            <td> 
+              <ul>
+                <li> <a href="Day9.pdf"> <b> Day 9 session </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=tvPe-v4EziM"> <b> Day 9 session Video </b></a> </li>
+               </ul>
+        </tr>
+        <tr>
+            <td> 10 </td>
+            <td> 
+                 <ul>  
+                       <li> What is SRA? How it is organized ? </li>
+                       <li> Playing with SRA toolkit </li>
+                 </ul>
+              </td>
+            <td> 
+              <ul>
+                <li> <a href="Day10.pdf"> <b> Day 10 session </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=YlQ0hKt2-Z4"> <b> Day 10 session Video </b></a> </li> 
+               </ul>
+        </tr>
+        <tr>
+            <td> 11 </td>
+            <td> 
+                 <ul>  
+                       <li> What is FASTQC? </li>
+                       <li> Box and Whisker Plot </li>
+                       <li> Playing with FASTQC Modules? </li>
+                 </ul>
+              </td>
+            <td> 
+              <ul>
+                <li> <a href="Day11.pdf"> <b> Day 11 session </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=c7t-oGQnJkk"> <b> Day 11 session Video </b></a> </li>
+               </ul>
+        </tr>
 
    </table>
    
