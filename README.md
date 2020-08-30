@@ -205,7 +205,8 @@ Undergraduate and graduate-level students in biology, medicine, science, agricul
             <td> 
               <ul>
                 <li> <a href="Day11.pdf"> <b> Day 11 session </b></a> </li>
-                <li> <a href="https://www.youtube.com/watch?v=c7t-oGQnJkk"> <b> Day 11 session Video </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=c7t-oGQnJkk"> <b> Day 11 session Video part1 </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=7G2m2KMEajM"> <b> Day 11 session Video part2 </b></a> </li>
                </ul>
         </tr>
 
