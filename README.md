@@ -209,7 +209,52 @@ Undergraduate and graduate-level students in biology, medicine, science, agricul
                 <li> <a href="https://www.youtube.com/watch?v=7G2m2KMEajM"> <b> Day 11 session Video part2 </b></a> </li>
                </ul>
         </tr>
-
+         <tr>
+            <td> 12 </td>
+            <td> 
+                 <ul>  
+                       <li> Continue with FASTQC Modules </li>
+                       <li> Run FastQC in non-interactively mode  </li>
+                       <li> Playing with Trimmomatic </li>
+                 </ul>
+              </td>
+            <td> 
+              <ul>
+                <li> <a href="Day12.pdf"> <b> Day 12 session </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=c4f9O8yAyYU"> <b> Day 12 session Video </b></a> </li>
+               </ul>
+        </tr>
+                 <tr>
+            <td> 13 </td>
+            <td> 
+                 <ul>  
+                       <li> Sequence Alignment Programs </li>
+                       <li> BWA Aligner </li>
+                       <li> SAM file format </li>
+                 </ul>
+              </td>
+            <td> 
+              <ul>
+                <li> <a href="Day13.pdf"> <b> Day 13 session </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=ZGCnvHaOcK0"> <b> Day 13 session Video </b></a> </li>
+               </ul>
+        </tr>
+         <tr>
+            <td> 14 </td>
+            <td> 
+                 <ul>  
+                       <li> Flag field in SAM format </li>
+                       <li> CIGAR statement in SAM format </li>
+                       <li> MD statement in SAM format </li>
+                       <li> Introduction to SAMtools </li>
+                 </ul>
+              </td>
+            <td> 
+              <ul>
+                <li> <a href="Day14.pdf"> <b> Day 14 session </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=KMaVlEviYl0"> <b> Day 14 session Video </b></a> </li>
+               </ul>
+        </tr>
    </table>
    
    ## References 
