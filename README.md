@@ -308,10 +308,8 @@ Undergraduate and graduate-level students in biology, medicine, science, agricul
             <td> 18 </td>
             <td> 
                  <ul>  
-                       <li> Flag field in SAM format </li>
-                       <li> CIGAR statement in SAM format </li>
-                       <li> MD statement in SAM format </li>
-                       <li> Introduction to SAMtools </li>
+                       <li> VCF/BCF format </li>
+                       <li> Generate VCF/BCF files with SAMtools </li>
                  </ul>
               </td>
             <td> 
