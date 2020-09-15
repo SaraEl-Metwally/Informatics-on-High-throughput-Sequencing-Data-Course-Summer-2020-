@@ -255,6 +255,72 @@ Undergraduate and graduate-level students in biology, medicine, science, agricul
                 <li> <a href="https://www.youtube.com/watch?v=KMaVlEviYl0"> <b> Day 14 session Video </b></a> </li>
                </ul>
         </tr>
+                 <tr>
+            <td> 15 </td>
+            <td> 
+                 <ul>  
+                       <li> Install SAMtools </li>
+                       <li> SAM <-> BAM Conversion </li>
+                       <li> SAMtools view, flagstat, sort, and index commands </li>
+                       <li> extract alignments using SAMtools view command  </li>
+                       <li> Introduction to BED format  </li>
+                 </ul>
+              </td>
+            <td> 
+              <ul>
+                <li> <a href="Day15.pdf"> <b> Day 15 session </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=rGhKMqKd48k"> <b> Day 15 session Video </b></a> </li>
+               </ul>
+        </tr>
+                 <tr>
+            <td> 16 </td>
+            <td> 
+                 <ul>  
+                       <li> What is Variant Calling, Examples of Genomic Variations </li>
+                       <li> SAMtools mpileup format </li>
+                       <li> SAMtools mpileup command </li>
+                 </ul>
+              </td>
+            <td> 
+              <ul>
+                <li> <a href="Day16.pdf"> <b> Day 16 session </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=v1ETNInsyW8"> <b> Day 16 session Video part1 </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=zS0Cb03Bo-g"> <b> Day 16 session Video part2 </b></a> </li>
+               </ul>
+        </tr>
+                 <tr>
+            <td> 17 </td>
+            <td> 
+                 <ul>  
+                       <li> Variant Calling Pipeline </li>
+                       <li> Genotype Vs. Phenotype Vs. Alleles Vs. Haplotypes </li>
+                       <li> Genotype Vs. Phenotype Vs. Alleles Frequencies </li>
+                       <li> Phased/unphased Genotypes </li>
+                 </ul>
+              </td>
+            <td> 
+              <ul>
+                <li> <a href="Day17.pdf"> <b> Day 17 session </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=wjxJBJxInJU"> <b> Day 17 session Video </b></a> </li>
+               </ul>
+        </tr>
+                 <tr>
+            <td> 18 </td>
+            <td> 
+                 <ul>  
+                       <li> Flag field in SAM format </li>
+                       <li> CIGAR statement in SAM format </li>
+                       <li> MD statement in SAM format </li>
+                       <li> Introduction to SAMtools </li>
+                 </ul>
+              </td>
+            <td> 
+              <ul>
+                <li> <a href="Day18.pdf"> <b> Day 18 session </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=uepcgfrrN84"> <b> Day 18 session Video part1 </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=vIeaCuvPqp0"> <b> Day 18 session Video part2 </b></a> </li>
+               </ul>
+        </tr>
    </table>
    
    ## References 
