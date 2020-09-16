@@ -319,6 +319,23 @@ Undergraduate and graduate-level students in biology, medicine, science, agricul
                 <li> <a href="https://www.youtube.com/watch?v=vIeaCuvPqp0"> <b> Day 18 session Video part2 </b></a> </li>
                </ul>
         </tr>
+            <tr>
+            <td> 19 </td>
+            <td> 
+                 <ul>  
+                       <li> Generate raw VCF/BCF files with SAMtools</li>
+                       <li> Install BCFtools </li>
+                       <li> BCFtools view, call and mpileup commands </li>
+                       <li> Visualizing Alignment Information with SAMtools tview command </li>
+                       <li> Recap of Variant Calling Pipeline </li>
+                 </ul>
+              </td>
+            <td> 
+              <ul>
+                <li> <a href="Day19.pdf"> <b> Day 19 session </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=uepcgfrrN84"> <b> Day 19 session Video </b></a> </li>
+               </ul>
+        </tr>
    </table>
    
    ## References 
