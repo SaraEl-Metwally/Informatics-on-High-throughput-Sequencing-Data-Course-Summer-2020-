@@ -333,7 +333,7 @@ Undergraduate and graduate-level students in biology, medicine, science, agricul
             <td> 
               <ul>
                 <li> <a href="Day19.pdf"> <b> Day 19 session </b></a> </li>
-                <li> <a href="https://www.youtube.com/watch?v=uepcgfrrN84"> <b> Day 19 session Video </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=hrTjJZRlHQg"> <b> Day 19 session Video </b></a> </li>
                </ul>
         </tr>
    </table>
