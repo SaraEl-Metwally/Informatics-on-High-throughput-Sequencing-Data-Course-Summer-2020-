@@ -336,6 +336,20 @@ Undergraduate and graduate-level students in biology, medicine, science, agricul
                 <li> <a href="https://www.youtube.com/watch?v=hrTjJZRlHQg"> <b> Day 19 session Video </b></a> </li>
                </ul>
         </tr>
+         <tr>
+            <td> 20 </td>
+            <td> 
+                 <ul>  
+                       <li> Recap of Variant Calling Pipeline </li>
+                 </ul>
+              </td>
+            <td> 
+              <ul>
+                <li> <a href="https://www.youtube.com/watch?v=i7iA89lLAE8"> <b> Day 20 session Video part 1 </b></a> </li>
+                <li> <a href="https://www.youtube.com/watch?v=BVF0qXHQxqs"> <b> Day 20 session Video part 2 </b></a> </li>
+               </ul>
+        </tr>
+        
    </table>
    
    ## References 
